@@ -1,0 +1,1 @@
+syso("hello world");
